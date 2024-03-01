@@ -29,8 +29,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/]
-- Live Site URL: [https://social-links-profile-jue0wyqnj-armandonery.vercel.app/]
+- Solution URL: [https://www.frontendmentor.io/solutions/social-lins-profile-using-html-and-css-V4oeFDatvs]
+- Live Site URL: [https://social-links-profile-peach.vercel.app/]
 
 ## My process
 
